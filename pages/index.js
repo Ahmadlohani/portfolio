@@ -33,14 +33,14 @@ const index = () => {
 
     <div className="w3-padding-large" id="main">
       <header className="w3-container w3-padding-32 w3-center w3-black" id="home">
-        <h1 className="w3-jumbo"><span className="w3-hide-small">I'm</span> Ahmad Hassan Khan.</h1>
+        <h1 className="w3-jumbo"><span className="w3-hide-small">I&apos;m</span> Ahmad Hassan Khan.</h1>
         <p>Full Stack Web Developer</p>
         <img src="/images/profile.jpg" alt="boy" className="w3-image" style={{"width":"40%","borderRadius":"100%"}} />
       </header>
       <div className="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
         <h2 className="w3-text-light-grey">Ahmad Hassan Khan</h2>
         <hr style={{"width":"200px"}} className="w3-opacity" />
-        <p>Hi, I am Ahmad Hassan Khan, a full stack web designer and developer. I have worked in an IT company so I am have professional experience of web development. I have experience of more than two years. I have done full stack development using core PHP and it's frameworks as Wordpress and Codeigniter. Also I have great experience with MERN technology and NEXT js Applications. If you are looking for professional collaboration in web applications Contact me.
+        <p>Hi, I am Ahmad Hassan Khan, a full stack web designer and developer. I have worked in an IT company so I am have professional experience of web development. I have experience of more than two years. I have done full stack development using core PHP and it&apos;s frameworks as Wordpress and Codeigniter. Also I have great experience with MERN technology and NEXT js Applications. If you are looking for professional collaboration in web applications Contact me.
         </p>
         <h3 className="w3-padding-16 w3-text-light-grey">My Expertise</h3>
         <p className="w3-wide">HTML</p>
@@ -150,49 +150,49 @@ const index = () => {
 
         <div className="w3-row-padding" style={{"margin":"0 -16px"}}>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/stripe_paypal" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/stripe_paypal</a>
+          <a href="https://github.com/Ahmadlohani/stripe_paypal" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/stripe_paypal</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/sports_management_site" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/sports_management_site</a>
+          <a href="https://github.com/Ahmadlohani/sports_management_site" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/sports_management_site</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/time_schedule_app" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/time_schedule_app</a>
+          <a href="https://github.com/Ahmadlohani/time_schedule_app" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/time_schedule_app</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/password_generator" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/password_generator</a>
+          <a href="https://github.com/Ahmadlohani/password_generator" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/password_generator</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/next_client_server" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/next_client_server</a>
+          <a href="https://github.com/Ahmadlohani/next_client_server" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/next_client_server</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/codeigniter_dashboard" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/codeigniter_dashboard</a>
+          <a href="https://github.com/Ahmadlohani/codeigniter_dashboard" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/codeigniter_dashboard</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/deploy_digital_ocean" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/deploy_digital_ocean</a>
+          <a href="https://github.com/Ahmadlohani/deploy_digital_ocean" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/deploy_digital_ocean</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/first_react_site" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/first_react_site</a>
+          <a href="https://github.com/Ahmadlohani/first_react_site" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/first_react_site</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/kaijas" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/kaijas</a>
+          <a href="https://github.com/Ahmadlohani/kaijas" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/kaijas</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/qasim-dashboard-client" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/qasim-dashboard-client</a>
+          <a href="https://github.com/Ahmadlohani/qasim-dashboard-client" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/qasim-dashboard-client</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/hostel_app" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/hostel_app</a>
+          <a href="https://github.com/Ahmadlohani/hostel_app" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/hostel_app</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/my_shopify" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/my_shopify</a>
+          <a href="https://github.com/Ahmadlohani/my_shopify" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/my_shopify</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/insta_downloder" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/insta_downloder</a>
+          <a href="https://github.com/Ahmadlohani/insta_downloder" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/insta_downloder</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/wordpress_plugin" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/wordpress_plugin</a>
+          <a href="https://github.com/Ahmadlohani/wordpress_plugin" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/wordpress_plugin</a>
           </div>
           <div className="my-4">
-          <a href="https://github.com/Ahmadlohani/Background_Generator" target={"_blank"} className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/Background_Generator</a>
+          <a href="https://github.com/Ahmadlohani/Background_Generator" target={"_blank"} rel="noreferrer" className="w3-white w3-padding-large w3-hover-black">https://github.com/Ahmadlohani/Background_Generator</a>
           </div>
         </div>
       </div>
