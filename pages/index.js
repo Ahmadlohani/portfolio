@@ -206,7 +206,7 @@ const index = () => {
           <p><i className="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Lahore, Pakistan</p>
           <p><i className="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: ah203076@gmail.com</p>
         </div><br />
-        <p>Let's get in touch. Send me a message:</p>
+        <p>Let&apos;s get in touch. Send me a message:</p>
 
         <form action="/action_page.php" target="_blank">
           <p><input className="w3-input w3-padding-16" type="text" placeholder="Name" disabled name="Name" /></p>
@@ -222,12 +222,12 @@ const index = () => {
       </div>
       
       <footer className="w3-content w3-padding-64 w3-text-grey w3-xlarge">
-        <a href="https://www.facebook.com/profile.php?id=100022825365715" target={"_blank"}><i className="fa fa-facebook-official w3-hover-opacity p-2"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=100022825365715" target={"_blank"} rel="noreferrer"><i className="fa fa-facebook-official w3-hover-opacity p-2"></i></a>
         <i className="fa fa-instagram w3-hover-opacity p-2"></i>
         <i className="fa fa-snapchat w3-hover-opacity p-2"></i>
         <i className="fa fa-pinterest-p w3-hover-opacity p-2"></i>
         <i className="fa fa-twitter w3-hover-opacity p-2"></i>
-        <a href="https://www.linkedin.com/in/ahmad-hassan-62a65a240/" target={"_blank"}><i className="fa fa-linkedin w3-hover-opacity p-2"></i></a>
+        <a href="https://www.linkedin.com/in/ahmad-hassan-62a65a240/" target={"_blank"} rel="noreferrer"><i className="fa fa-linkedin w3-hover-opacity p-2"></i></a>
       </footer>
       
     </div>
