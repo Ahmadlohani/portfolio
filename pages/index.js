@@ -1,8 +1,8 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import Carousel from "react-multi-carousel";
 import Cards from "../components/Cards";
 
-const index = () => {
+const Home = () => {
 	const responsive = {
 		desktop: {
 			breakpoint: { max: 3000, min: 1024 },
@@ -612,4 +612,4 @@ const index = () => {
 	);
 };
 
-export default index;
+export default Home;
